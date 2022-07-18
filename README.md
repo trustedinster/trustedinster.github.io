@@ -1,37 +1,37 @@
-## Welcome to GitHub Pages
+##欢迎来到GitHub页面
 
-You can use the [editor on GitHub](https://github.com/trustedinster/trustedinster.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+你可以使用[GitHub上的编辑器](https://github.com/trustedinster/trustedinster.github.io/edit/master/README.md)来维护和预览Markdown文件中的网站内容。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+每当你提交到这个仓库，GitHub页面将运行[Jekyll](https://jekyllrb.com/)，从你的Markdown文件中的内容重建你的网站中的页面。
 
-### Markdown
+# # #减价
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Markdown是一种轻量级且易于使用的语法，用于设计你的写作风格。它包括以下约定:
 
-```markdown
-Syntax highlighted code block
+”“减价
+语法突出显示的代码块
 
-# Header 1
-## Header 2
-### Header 3
+#标题1
+# #标题2
+# # #标题3
 
-- Bulleted
-- List
+——项目符号
+——列表
 
-1. Numbered
-2. List
+1. 编号
+2. 列表
 
-**Bold** and _Italic_ and `Code` text
+**粗体**和_Italic_和' Code '文本
 
-[Link](url) and ![Image](src)
-```
+[链接](url)和![图片](src)
+' ' '
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+更多详细信息请参见[基本编写和格式化语法](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)。
 
-### Jekyll Themes
+# # #哲基尔的主题
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/trustedinster/trustedinster.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+您的Pages站点将使用您在[存储库设置](https://github.com/trustedinster/trustedinster.github.io/settings/pages)中选择的Jekyll主题的布局和样式。这个主题的名称保存在Jekyll ' _config中。yml的配置文件。
 
-### Support or Contact
+###支持或联系
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+和佩奇闹矛盾?请查看我们的[文档](https://docs.github.com/categories/github-pages-basics/)或[联系技术支持](https://support.github.com/contact)，我们将帮助您解决问题。
