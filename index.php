@@ -1,6 +1,6 @@
 <?php
 // 返回二进制流数据
-$file_path = __DIR__ . '/video.mp4';
+$file_path = __DIR__ . '/Horror_MUSIC.mp3';
 $file_size = filesize($file_path);
 $oct_data = fread(fopen($file_path, "r"), $filesize);
  
