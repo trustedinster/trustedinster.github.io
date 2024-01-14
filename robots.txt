@@ -2,5 +2,8 @@ User-agent: *
 disallow:/us/
 disallow:/data/
 disallow:thanks.html
+disallow:/download/*
+allow:/download/index.html
+disallow:map.html
 
 Sitemap: https://trustedinster.github.io/sitemap.xml
