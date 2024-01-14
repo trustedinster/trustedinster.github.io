@@ -1,0 +1,6 @@
+User-agent: *
+disallow:/us/
+disallow:/data/
+disallow:thanks.html
+
+Sitemap: https://trustedinster.github.io/sitemap.xml
