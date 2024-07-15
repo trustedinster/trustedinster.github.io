@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+	<meta charset="UTF-8">
+	<title>UiHans官方下载 - XY-CTY工具站</title>
+	<link rel="shortcuticon" href="./favicon.ico" />
+	<meta name='description' content='UiHans高速下载,UiHans安装包,UiHans,UiHans官方版下载,UiHans网盘下载,UI汉化工具下载'>
+</head>
+
+<body>
+	<div style="text-align:center;">
+		<h1>XY_CTY工具站</h1>
+		<img alt="UiHans图标" src="https://avatars.githubusercontent.com/u/103629945"
+			style="display: inline-block;" />
+		<h1 align="center">UiHans安装包</h1>
+		<h2 align="center">全新的UI汉化工具</h1><br />
+			<h2 align="center">将你的UI汉化体验提升到全新的水平</h1>
+				<h3 align="center">通道不行请更换，密码皆为6666<br /></h1>
+					<a href="https://trustedinster.github.io/us/15" title="通过115网盘下载（密码：6666）"
+						target="&quot;_blank&quot;">通道一<br /></a>
+					<a href="https://trustedinster.github.io/us/14" title="通过123云盘下载"
+						target="&quot;_blank&quot;">通道二<br /></a>
+					<a href="https://trustedinster.github.io/us/13" title="通过蓝奏云下载(密码:6666)"
+						target="&quot;_blank&quot;">通道三<br /></a>
+          <a href="https://gitee.com/Root_cty/uihans/releases/latest" title="通过gitee下载"
+						target="&quot;_blank&quot;">通道四<br /></a>
+					<a href="https://github.com/trustedinster/uihans/releases/latest" title="官网下载（很慢）"
+						target="&quot;_blank&quot;">官网下载（很慢）</a>
+	</div>
+</body>
+
+</html>
