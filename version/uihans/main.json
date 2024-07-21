@@ -1,0 +1,17 @@
+{
+  "id": 166263910,
+  "tag_name": "v1.1",
+  "name": "重大Bug修复",
+  "prerelease": false,
+  "created_at": "2024-07-19T15:34:58Z",
+  "assets": [
+    {
+      "url": "https://api.github.com/repos/trustedinster/uihans/releases/assets/180615546",
+      "id": 180615546,
+      "name": "v1.1.7z",
+      "content_type": "application/octet-stream",
+      "browser_download_url": "https://cloud.wujiyan.cc/f/LlqSE/v1.1.7z"
+    }
+  ],
+  "body": "1. 修复了APP KEY导入错误\r\n2. 修复了APP ID导入错误\r\n3. 修复了配置文件读取错误\r\n4. 修复了翻译错误\r\n5. 更新了新的加密策略\r\n\r\n**Full Changelog**: https://github.com/trustedinster/uihans/compare/v1.0...v1.1"
+}
